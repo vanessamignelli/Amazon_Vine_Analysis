@@ -5,8 +5,16 @@ The purpose of this project was to analyze Amazon reviews the were curated by me
 
 ## Results
 ### How many Vine reviews and non-Vine reviews were there?
-- 
+- Total number of Vine reviews: 1,266 reviews
+- Total number of non-Vine reviews: 62,028 reviews
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+- Total five-star Vine reviews: 432 reviews
+- Total five-star non-Vine reviews: 29,982 reviews
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+- Percentage of five-star Vine reviews: 34.12%
+- Percentage of five-star non-Vine reviews: 48.34%
+
+## Summary
+Based on the analysis conducted it can be concluded that there was no bias towards reviews written by Amazon Vine program members. As displayed in the analysis above only 34% of all paid Vine reviews were 5-stars, while 48% of all non-paid reviews were 5-stars. 
